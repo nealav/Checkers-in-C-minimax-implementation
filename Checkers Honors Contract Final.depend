@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1430087313 source:c:\users\neal\documents\college semester 2\cse100\cse100labs\checkers honors contract final\checkersboard.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+	"minimax.hpp"
+
+1429607965 source:c:\users\neal\documents\college semester 2\cse100\cse100labs\checkers honors contract final\minimax.cpp
+	"minimax.hpp"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+
+1429586810 c:\users\neal\documents\college semester 2\cse100\cse100labs\checkers honors contract final\minimax.hpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+
