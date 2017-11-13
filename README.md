@@ -1,2 +1,1 @@
-#Checkers Board Game
 First project made in 2014.
