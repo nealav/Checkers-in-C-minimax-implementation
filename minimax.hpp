@@ -9,11 +9,8 @@ using namespace std; //For the std notation.
 
 class Minimax
 {
-        private:
-
         public:
             int boardvalue ();
 };
-
 
 #endif // MINIMAX_HPP_INCLUDED
